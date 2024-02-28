@@ -2,5 +2,5 @@
 
 Just another typo checker 🤷‍♂️
 
-- redo token count with improved regex
+- Remove apostroph from token parsing
 - add word repetition scanner with regex: `(\b\w+\b)[\s\/\*]+(\b\g1\b)`

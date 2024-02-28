@@ -1,4 +1,4 @@
-module github.com/openzeppelin/typo_shmypo
+module github.com/Artifex1/typo_shmypo
 
 go 1.21.6
 
